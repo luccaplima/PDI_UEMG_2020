@@ -1,0 +1,20 @@
+C:\Users\lucca\Desktop\SEMESTRE1 2020\PDI\PDI_2020\PDI_2020\bin\Debug\PDI_2020.exe.config
+C:\Users\lucca\Desktop\SEMESTRE1 2020\PDI\PDI_2020\PDI_2020\bin\Debug\PDI_2020.exe
+C:\Users\lucca\Desktop\SEMESTRE1 2020\PDI\PDI_2020\PDI_2020\bin\Debug\PDI_2020.pdb
+C:\Users\lucca\Desktop\SEMESTRE1 2020\PDI\PDI_2020\PDI_2020\obj\Debug\PDI_2020.csprojAssemblyReference.cache
+C:\Users\lucca\Desktop\SEMESTRE1 2020\PDI\PDI_2020\PDI_2020\obj\Debug\PDI_2020.Form1.resources
+C:\Users\lucca\Desktop\SEMESTRE1 2020\PDI\PDI_2020\PDI_2020\obj\Debug\PDI_2020.Properties.Resources.resources
+C:\Users\lucca\Desktop\SEMESTRE1 2020\PDI\PDI_2020\PDI_2020\obj\Debug\PDI_2020.csproj.GenerateResource.cache
+C:\Users\lucca\Desktop\SEMESTRE1 2020\PDI\PDI_2020\PDI_2020\obj\Debug\PDI_2020.csproj.CoreCompileInputs.cache
+C:\Users\lucca\Desktop\SEMESTRE1 2020\PDI\PDI_2020\PDI_2020\obj\Debug\PDI_2020.exe
+C:\Users\lucca\Desktop\SEMESTRE1 2020\PDI\PDI_2020\PDI_2020\obj\Debug\PDI_2020.pdb
+D:\BACKUP\PDI_2020\PDI_2020\bin\Debug\PDI_2020.exe.config
+D:\BACKUP\PDI_2020\PDI_2020\bin\Debug\PDI_2020.exe
+D:\BACKUP\PDI_2020\PDI_2020\bin\Debug\PDI_2020.pdb
+D:\BACKUP\PDI_2020\PDI_2020\obj\Debug\PDI_2020.csprojAssemblyReference.cache
+D:\BACKUP\PDI_2020\PDI_2020\obj\Debug\PDI_2020.Form1.resources
+D:\BACKUP\PDI_2020\PDI_2020\obj\Debug\PDI_2020.Properties.Resources.resources
+D:\BACKUP\PDI_2020\PDI_2020\obj\Debug\PDI_2020.csproj.GenerateResource.cache
+D:\BACKUP\PDI_2020\PDI_2020\obj\Debug\PDI_2020.csproj.CoreCompileInputs.cache
+D:\BACKUP\PDI_2020\PDI_2020\obj\Debug\PDI_2020.exe
+D:\BACKUP\PDI_2020\PDI_2020\obj\Debug\PDI_2020.pdb
